@@ -6,7 +6,8 @@ spam
 真央 一<br>
 エルマス<br>
 わかば<br>
-neo the one
+neo the one<br>
+Cypher
 
 # ディレクトリ構成
 ```
